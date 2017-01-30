@@ -75,7 +75,7 @@
                                         <p class="total">Subtotal: <span>$127.00</span></p>
                                         <p class="buttons">
                                             <a href="#">Checkout</a>
-                                            <a href="#">View Cart</a>
+                                            <a href="cart.php">View Cart</a>
                                         </p>
                                     </div>
                                 </div>
@@ -95,8 +95,8 @@
                         <span class="nav-close"></span>
                         <nav>
                             <ul id="nav">
-                                <li><a href="index.html">Accueil</a></li>
-                                <li><a href="blog.html">Nos Pizzas<i class="ion-ios-arrow-down"></i></a>
+                                <li><a href="index.php">Accueil</a></li>
+                                <li><a href="index.php">Nos Pizzas<i class="ion-ios-arrow-down"></i></a>
                                     <ul class="sup-menu">
                                         <li><a href="#">Incontournables</a></li>
                                         <li><a href="#">Sauce Tomate</a></li>
@@ -105,7 +105,7 @@
                                 </li>
                                 <li><a href="#">A Propos<i class=""></i></a>
                                 </li>
-                                <li><a href="blog.html">Blog<i class="ion-ios-arrow-down"></i></a>
+                                <li><a href="blog.php">Blog<i class="ion-ios-arrow-down"></i></a>
                                     <ul class="sup-menu">
                                         <li><a href="#">Notre Savoir Faire</a></li>
                                         <li><a href="#">Actus</a></li>
